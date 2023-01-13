@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9084e3e7.css",
+    "main.js": "/static/js/main.730aca63.js",
+    "static/media/DINCondensed-Regular.ttf": "/static/media/DINCondensed-Regular.fb36e2a79843ab2ab3eb.ttf",
+    "static/media/DINCondensed-Light.ttf": "/static/media/DINCondensed-Light.158e800a3eab783e82ed.ttf",
+    "static/media/pushkinCardLogo.svg": "/static/media/pushkinCardLogo.bf137ffa1d0cdc06f5d3aa1831d8dbc7.svg",
+    "static/media/SimpleLogoWithoutBackground.svg": "/static/media/SimpleLogoWithoutBackground.3b0433eca386e5126cba5855019bf043.svg",
+    "index.html": "/index.html",
+    "static/media/arrow.svg": "/static/media/arrow.f041bafdde249da2ba823deaa82d2275.svg",
+    "static/media/arrowLeft.svg": "/static/media/arrowLeft.b4f98488e7f21cec48550efdb8e36133.svg",
+    "static/media/eye.svg": "/static/media/eye.04a5f2f10e1b5bff933f9585b4afbf2a.svg",
+    "main.9084e3e7.css.map": "/static/css/main.9084e3e7.css.map",
+    "main.730aca63.js.map": "/static/js/main.730aca63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9084e3e7.css",
+    "static/js/main.730aca63.js"
+  ]
+}
