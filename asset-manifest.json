@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8821d52d.css",
+    "main.js": "/static/js/main.b74454d8.js",
+    "static/media/DINCondensed-Regular.ttf": "/static/media/DINCondensed-Regular.fb36e2a79843ab2ab3eb.ttf",
+    "static/media/DINCondensed-Light.ttf": "/static/media/DINCondensed-Light.158e800a3eab783e82ed.ttf",
+    "static/media/DINCondensed_Light.woff2": "/static/media/DINCondensed_Light.dcf089a5eaff12600d27.woff2",
+    "static/media/DINCondensed_Normal.woff2": "/static/media/DINCondensed_Normal.1b97e85a7a30b2274ee5.woff2",
+    "static/media/axios.cjs": "/static/media/axios.bee88bd7039296c9af63.cjs",
+    "static/media/pushkinCardLogo.svg": "/static/media/pushkinCardLogo.bf137ffa1d0cdc06f5d3aa1831d8dbc7.svg",
+    "static/media/SimpleLogoWithoutBackground.svg": "/static/media/SimpleLogoWithoutBackground.3b0433eca386e5126cba5855019bf043.svg",
+    "index.html": "/index.html",
+    "static/media/arrow.svg": "/static/media/arrow.f041bafdde249da2ba823deaa82d2275.svg",
+    "static/media/arrowLeft.svg": "/static/media/arrowLeft.b4f98488e7f21cec48550efdb8e36133.svg",
+    "static/media/eye.svg": "/static/media/eye.04a5f2f10e1b5bff933f9585b4afbf2a.svg",
+    "static/media/ArrowDown.svg": "/static/media/ArrowDown.79dfacc7dedd7bf8602745592565e936.svg",
+    "static/media/LongArrow.svg": "/static/media/LongArrow.620dcba1afbc000f847621794ded275f.svg",
+    "main.8821d52d.css.map": "/static/css/main.8821d52d.css.map",
+    "main.b74454d8.js.map": "/static/js/main.b74454d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8821d52d.css",
+    "static/js/main.b74454d8.js"
+  ]
+}
