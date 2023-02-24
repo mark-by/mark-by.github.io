@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b532f5ff.css",
-    "main.js": "/static/js/main.d732cae7.js",
+    "main.js": "/static/js/main.ba58bf4b.js",
     "static/media/DINCondensed-Regular.ttf": "/static/media/DINCondensed-Regular.fb36e2a79843ab2ab3eb.ttf",
     "static/media/DINCondensed-Light.ttf": "/static/media/DINCondensed-Light.158e800a3eab783e82ed.ttf",
     "static/media/DINCondensed_Light.woff2": "/static/media/DINCondensed_Light.dcf089a5eaff12600d27.woff2",
@@ -10,6 +10,8 @@
     "static/media/pushkinCardLogo.svg": "/static/media/pushkinCardLogo.bf137ffa1d0cdc06f5d3aa1831d8dbc7.svg",
     "static/media/SimpleLogoWithoutBackground.svg": "/static/media/SimpleLogoWithoutBackground.3b0433eca386e5126cba5855019bf043.svg",
     "index.html": "/index.html",
+    "static/media/leftSadMask.svg": "/static/media/leftSadMask.0ef08f9ce4deab60311ddfefeab4e835.svg",
+    "static/media/rightHappyMask.svg": "/static/media/rightHappyMask.d85f0c0dfdc9feaf44cf018c0d92d3b5.svg",
     "static/media/arrow.svg": "/static/media/arrow.f041bafdde249da2ba823deaa82d2275.svg",
     "static/media/arrowLeft.svg": "/static/media/arrowLeft.b4f98488e7f21cec48550efdb8e36133.svg",
     "static/media/eye.svg": "/static/media/eye.04a5f2f10e1b5bff933f9585b4afbf2a.svg",
@@ -17,10 +19,10 @@
     "static/media/LongArrow.svg": "/static/media/LongArrow.620dcba1afbc000f847621794ded275f.svg",
     "static/media/RightArrow.svg": "/static/media/RightArrow.ca39139d7f80d94adfe76476ad6e3c80.svg",
     "main.b532f5ff.css.map": "/static/css/main.b532f5ff.css.map",
-    "main.d732cae7.js.map": "/static/js/main.d732cae7.js.map"
+    "main.ba58bf4b.js.map": "/static/js/main.ba58bf4b.js.map"
   },
   "entrypoints": [
     "static/css/main.b532f5ff.css",
-    "static/js/main.d732cae7.js"
+    "static/js/main.ba58bf4b.js"
   ]
 }
