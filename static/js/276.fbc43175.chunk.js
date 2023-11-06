@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktheater_front=self.webpackChunktheater_front||[]).push([[276],{276:function(e,t,n){n.r(t);var r=n(184);t.default=function(){return(0,r.jsx)("div",{children:"shows"})}}}]);
+//# sourceMappingURL=276.fbc43175.chunk.js.map
