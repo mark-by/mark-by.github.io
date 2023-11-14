@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.cbe5aeae.css",
-    "main.js": "/static/js/main.cc2735f5.js",
+    "main.css": "/static/css/main.ed371977.css",
+    "main.js": "/static/js/main.b96335c9.js",
     "static/media/din-condensed_normal.woff": "/static/media/din-condensed_normal.1baaeaec64e7b26a4890.woff",
     "static/media/DIN-Condensed_Light.woff": "/static/media/DIN-Condensed_Light.20843737ab93d0ee7177.woff",
     "static/media/DIN-Condensed_Light.woff2": "/static/media/DIN-Condensed_Light.dcf089a5eaff12600d27.woff2",
@@ -24,11 +24,11 @@
     "static/media/ArrowDown.svg": "/static/media/ArrowDown.79dfacc7dedd7bf8602745592565e936.svg",
     "static/media/LongArrow.svg": "/static/media/LongArrow.620dcba1afbc000f847621794ded275f.svg",
     "static/media/RightArrow.svg": "/static/media/RightArrow.ca39139d7f80d94adfe76476ad6e3c80.svg",
-    "main.cbe5aeae.css.map": "/static/css/main.cbe5aeae.css.map",
-    "main.cc2735f5.js.map": "/static/js/main.cc2735f5.js.map"
+    "main.ed371977.css.map": "/static/css/main.ed371977.css.map",
+    "main.b96335c9.js.map": "/static/js/main.b96335c9.js.map"
   },
   "entrypoints": [
-    "static/css/main.cbe5aeae.css",
-    "static/js/main.cc2735f5.js"
+    "static/css/main.ed371977.css",
+    "static/js/main.b96335c9.js"
   ]
 }
